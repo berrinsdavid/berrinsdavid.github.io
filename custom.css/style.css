@@ -1,0 +1,27 @@
+.bg1{
+	background: powderblue;
+}
+.bg-2{
+	background: gray;
+}
+.bg4{
+	background: wheat;
+	color: white;
+}
+.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.bg-5{
+	background-color: black;
+	color: white;
+	height: 40px !important;
+	width: 100%;
+}
+
+.col-md-4: {
+	color: white;
+}
+.bg-3{
+	color: white;
+}
